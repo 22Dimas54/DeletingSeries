@@ -1,0 +1,17 @@
+*.bak
+*.tmp
+logs/
+*.log
+*.lock
+
+.vacode/
+v8userdefinfo/
+bin/
+
+*.cfe
+*.dt
+
+Thumbs.db
+Desktop.ini
+
+temp/
